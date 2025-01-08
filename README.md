@@ -1,8 +1,8 @@
-1. Initialize Node.js Project
+# Initialize Node.js Project
 npm init -y
-2. Install Express
+# Install Express
 npm install express
-3. Install Jest and Supertest (for testing)
+# Install Jest and Supertest (for testing)
 npm install --save-dev jest supertest
-4. Run Tests
+# Run Tests
 npm test
